@@ -7,6 +7,4 @@
 /build
 /captures
 .externalNativeBuild
-
-#Node
-/shareLink/config
+/shareLink/config/keys.js
