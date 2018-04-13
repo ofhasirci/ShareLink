@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Share Link</string>
+    <string name="send_button">Send</string>
+    <string name="login">Log In</string>
+    <string name="next">Next</string>
+    <string name="share_link">Share Link!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="link">Link</string>
+    <string name="host_url">http://10.1.142.20:3000/</string>
+    <string name="desc">Description</string>
+    <string name="signin">Sign In</string>
+    <string name="forgot">Forgot Password? Please click.</string>
+    <string name="alert_text">Please enter your registered email.</string>
+    <string name="create_group">Create</string>
+    <string name="profile">Profile</string>
+    <string name="group_alert_hint">Group Name</string>
+    <string name="group_alert_text">Please Enter Group Name</string>
+    <string name="group_alert_title">Create A Group</string>
+    <string name="log_out">Log Out</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="add_contact_title">Add A Contact</string>
+    <string name="add_contact_text">Please Enter Conctact Email</string>
+    <string name="add_contact_hint">Contact Email</string>
+    <string name="exit_group">Exit Group</string>
+    <string name="group_info">Group Info</string>
+</resources>
